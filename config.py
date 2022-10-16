@@ -1,4 +1,4 @@
-token = '1897894975:AAEwyM_hvej-Sc9aujgJGH_fXp9Zaf-DwQo'
-provider_token = '410694247:TEST:7c1d68d0-1957-4853-bb85-115ce1f75af2'
+token = '5711490877:AAHCU5uKeFXREXZrFCZlNsUX_5UVBBH1XTQ'
+provider_token = '5711490877:AAHCU5uKeFXREXZrFCZlNsUX_5UVBBH1XTQ'
 
 db = 'db.db'
